@@ -1,0 +1,19 @@
+/*Google cursive font :::::*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+
+.head-titel{
+    font-size: 40px;
+    font-family: 'Lobster Two', cursive;
+    background: linear-gradient(to right, #A7CFDF 0%, #23538A 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.connection-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.connection-icons img {
+    width: 20%;
+}
